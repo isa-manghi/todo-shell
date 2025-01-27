@@ -1,6 +1,6 @@
 # 🎀 TODO List 🎀
 
-A visually appealing command-line TODO list manager built with **Golang** and **Gum**!
+A visually appealing command-line TODO list manager built with **Golang**, **bubbletea** and **gum**!
 
 Manage multiple lists, track your tasks, and stay productive! 💖
 
@@ -12,8 +12,7 @@ Manage multiple lists, track your tasks, and stay productive! 💖
 🎉 **Mark Tasks as Done** and track completed items  
 🗑️ **Delete Tasks Easily**  
 💖 **Save & Load Tasks Automatically**  
-🎀 **Pretty Animations with `gum spin`**
-
+🎀 **Simple File Storage** for easy backup and manual editing
 ---
 
 ## 📦 Installation
