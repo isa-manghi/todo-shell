@@ -1,6 +1,6 @@
 # ✨TODO List Script
 
-This script is a simple command-line TODO list manager built with **Bash** and **Gum**. It allows you to create and manage tasks in a visually appealing way.
+This script is a simple command-line TODO list manager built with **Bash** and **[Gum](https://github.com/charmbracelet/gum)**. It allows you to create and manage tasks in a visually appealing way.
 
 ## Features
 
